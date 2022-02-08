@@ -296,7 +296,7 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 {% endcomment %}
 
 <p><a href="{{ site.post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
-{% endif %}
+
 
 <hr/>
 
