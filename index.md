@@ -295,7 +295,7 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 SURVEYS - DO NOT EDIT SURVEY LINKS
 {% endcomment %}
 
-<p><a href="{{ site.post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
+<p><a href="https://form.jotform.com/220414781771152">Post-workshop Survey</a></p>
 
 
 <hr/>
