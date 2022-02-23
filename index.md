@@ -13,9 +13,9 @@ humandate: "Mar 22-25, 2022"    # human-readable dates for the workshop (e.g., "
 humantime: "9:00 am - 12:00 pm EST (1:00 pm - 4:00 pm UTC)"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2022-03-22      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2022-03-25        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Neil Kindlon", "Ahmed Sadeque"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Olaitan Awe", "Frank Zappulla", "George Savvidis", "Kurt Showmaker", "Sue McClatchy"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["olaitan.awe@jax.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+instructor: ["Neil Kindlon", "Ahmed Sadeque", "Sue McClatchy"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["Olaitan Awe", "Frank Zappulla", "George Savvidis", "Kurt Showmaker"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+email: ["olaitan.awe@jax.org", "susan.mcclatchy@jax.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite: 267061818087          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
